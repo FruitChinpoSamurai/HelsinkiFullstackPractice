@@ -1,0 +1,5 @@
+### Works.
+DELETE http://localhost:3001/api/persons/3
+
+### Error.
+DELETE http://localhost:3001/api/persons/5
